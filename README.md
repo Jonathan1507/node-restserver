@@ -1,4 +1,4 @@
-### Aplicación creada para dar serivios Rest.
+### Aplicación creada para dar servicios Rest.
 
 ```
 npm install
